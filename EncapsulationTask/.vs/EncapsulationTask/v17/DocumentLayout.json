@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asime\\Desktop\\bb207task\\EncapsulationTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE686E3-43B1-4AA1-8101-F9EF7997F50B}|EncapsulationTask\\EncapsulationTask.csproj|c:\\users\\asime\\desktop\\bb207task\\encapsulationtask\\encapsulationtask\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE686E3-43B1-4AA1-8101-F9EF7997F50B}|EncapsulationTask\\EncapsulationTask.csproj|solutionrelative:encapsulationtask\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE686E3-43B1-4AA1-8101-F9EF7997F50B}|EncapsulationTask\\EncapsulationTask.csproj|c:\\users\\asime\\desktop\\bb207task\\encapsulationtask\\encapsulationtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE686E3-43B1-4AA1-8101-F9EF7997F50B}|EncapsulationTask\\EncapsulationTask.csproj|solutionrelative:encapsulationtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE686E3-43B1-4AA1-8101-F9EF7997F50B}|EncapsulationTask\\EncapsulationTask.csproj|c:\\users\\asime\\desktop\\bb207task\\encapsulationtask\\encapsulationtask\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE686E3-43B1-4AA1-8101-F9EF7997F50B}|EncapsulationTask\\EncapsulationTask.csproj|solutionrelative:encapsulationtask\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE686E3-43B1-4AA1-8101-F9EF7997F50B}|EncapsulationTask\\EncapsulationTask.csproj|c:\\users\\asime\\desktop\\bb207task\\encapsulationtask\\encapsulationtask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE686E3-43B1-4AA1-8101-F9EF7997F50B}|EncapsulationTask\\EncapsulationTask.csproj|solutionrelative:encapsulationtask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\bb207task\\EncapsulationTask\\EncapsulationTask\\Book.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask\\Book.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\bb207task\\EncapsulationTask\\EncapsulationTask\\Book.cs",
+              "RelativeToolTip": "EncapsulationTask\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:53:56.567Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\bb207task\\EncapsulationTask\\EncapsulationTask\\Product.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask\\Product.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\bb207task\\EncapsulationTask\\EncapsulationTask\\Product.cs",
+              "RelativeToolTip": "EncapsulationTask\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:52:42.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\bb207task\\EncapsulationTask\\EncapsulationTask\\Library.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask\\Library.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\bb207task\\EncapsulationTask\\EncapsulationTask\\Library.cs",
+              "RelativeToolTip": "EncapsulationTask\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:32:55.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\bb207task\\EncapsulationTask\\EncapsulationTask\\Program.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\bb207task\\EncapsulationTask\\EncapsulationTask\\Program.cs",
+              "RelativeToolTip": "EncapsulationTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:45:16.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

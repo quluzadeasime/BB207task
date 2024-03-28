@@ -1,0 +1,15 @@
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\bin\Debug\net6.0\EncapsulationTask.exe
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\bin\Debug\net6.0\EncapsulationTask.deps.json
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\bin\Debug\net6.0\EncapsulationTask.runtimeconfig.json
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\bin\Debug\net6.0\EncapsulationTask.dll
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\bin\Debug\net6.0\EncapsulationTask.pdb
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\obj\Debug\net6.0\EncapsulationTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\obj\Debug\net6.0\EncapsulationTask.AssemblyInfoInputs.cache
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\obj\Debug\net6.0\EncapsulationTask.AssemblyInfo.cs
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\obj\Debug\net6.0\EncapsulationTask.csproj.CoreCompileInputs.cache
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\obj\Debug\net6.0\EncapsulationTask.sourcelink.json
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\obj\Debug\net6.0\EncapsulationTask.dll
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\obj\Debug\net6.0\refint\EncapsulationTask.dll
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\obj\Debug\net6.0\EncapsulationTask.pdb
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\obj\Debug\net6.0\EncapsulationTask.genruntimeconfig.cache
+C:\Users\Asime\Desktop\bb207task\EncapsulationTask\EncapsulationTask\obj\Debug\net6.0\ref\EncapsulationTask.dll
