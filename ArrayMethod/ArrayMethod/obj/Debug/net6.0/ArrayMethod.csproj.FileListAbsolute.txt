@@ -1,0 +1,15 @@
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\bin\Debug\net6.0\ArrayMethod.exe
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\bin\Debug\net6.0\ArrayMethod.deps.json
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\bin\Debug\net6.0\ArrayMethod.runtimeconfig.json
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\bin\Debug\net6.0\ArrayMethod.dll
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\bin\Debug\net6.0\ArrayMethod.pdb
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\obj\Debug\net6.0\ArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\obj\Debug\net6.0\ArrayMethod.AssemblyInfoInputs.cache
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\obj\Debug\net6.0\ArrayMethod.AssemblyInfo.cs
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\obj\Debug\net6.0\ArrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\obj\Debug\net6.0\ArrayMethod.sourcelink.json
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\obj\Debug\net6.0\ArrayMethod.dll
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\obj\Debug\net6.0\refint\ArrayMethod.dll
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\obj\Debug\net6.0\ArrayMethod.pdb
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\obj\Debug\net6.0\ArrayMethod.genruntimeconfig.cache
+C:\Users\Asime\Desktop\bb207task\ArrayMethod\ArrayMethod\obj\Debug\net6.0\ref\ArrayMethod.dll
