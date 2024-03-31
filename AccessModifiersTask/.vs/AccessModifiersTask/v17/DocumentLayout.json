@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asime\\Desktop\\bb207task\\AccessModifiersTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80994A60-2026-4F13-952F-054935B18E79}|AccessModifiersTask\\AccessModifiersTask.csproj|c:\\users\\asime\\desktop\\bb207task\\accessmodifierstask\\accessmodifierstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80994A60-2026-4F13-952F-054935B18E79}|AccessModifiersTask\\AccessModifiersTask.csproj|solutionrelative:accessmodifierstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80994A60-2026-4F13-952F-054935B18E79}|AccessModifiersTask\\AccessModifiersTask.csproj|c:\\users\\asime\\desktop\\bb207task\\accessmodifierstask\\accessmodifierstask\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80994A60-2026-4F13-952F-054935B18E79}|AccessModifiersTask\\AccessModifiersTask.csproj|solutionrelative:accessmodifierstask\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80994A60-2026-4F13-952F-054935B18E79}|AccessModifiersTask\\AccessModifiersTask.csproj|c:\\users\\asime\\desktop\\bb207task\\accessmodifierstask\\accessmodifierstask\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80994A60-2026-4F13-952F-054935B18E79}|AccessModifiersTask\\AccessModifiersTask.csproj|solutionrelative:accessmodifierstask\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\bb207task\\AccessModifiersTask\\AccessModifiersTask\\Group.cs",
+              "RelativeDocumentMoniker": "AccessModifiersTask\\Group.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\bb207task\\AccessModifiersTask\\AccessModifiersTask\\Group.cs",
+              "RelativeToolTip": "AccessModifiersTask\\Group.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:31:04.739Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\bb207task\\AccessModifiersTask\\AccessModifiersTask\\Student.cs",
+              "RelativeDocumentMoniker": "AccessModifiersTask\\Student.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\bb207task\\AccessModifiersTask\\AccessModifiersTask\\Student.cs",
+              "RelativeToolTip": "AccessModifiersTask\\Student.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvwoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:30:51.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\bb207task\\AccessModifiersTask\\AccessModifiersTask\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiersTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\bb207task\\AccessModifiersTask\\AccessModifiersTask\\Program.cs",
+              "RelativeToolTip": "AccessModifiersTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:30:15.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

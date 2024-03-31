@@ -1,0 +1,15 @@
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\bin\Debug\net6.0\AccessModifiersTask.exe
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\bin\Debug\net6.0\AccessModifiersTask.deps.json
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\bin\Debug\net6.0\AccessModifiersTask.runtimeconfig.json
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\bin\Debug\net6.0\AccessModifiersTask.dll
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\bin\Debug\net6.0\AccessModifiersTask.pdb
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.AssemblyInfoInputs.cache
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.AssemblyInfo.cs
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.csproj.CoreCompileInputs.cache
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.sourcelink.json
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.dll
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\refint\AccessModifiersTask.dll
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.pdb
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\AccessModifiersTask.genruntimeconfig.cache
+C:\Users\Asime\Desktop\bb207task\AccessModifiersTask\AccessModifiersTask\obj\Debug\net6.0\ref\AccessModifiersTask.dll
