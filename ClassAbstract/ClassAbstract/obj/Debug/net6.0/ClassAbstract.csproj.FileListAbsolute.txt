@@ -1,0 +1,15 @@
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\bin\Debug\net6.0\ClassAbstract.exe
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\bin\Debug\net6.0\ClassAbstract.deps.json
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\bin\Debug\net6.0\ClassAbstract.runtimeconfig.json
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\bin\Debug\net6.0\ClassAbstract.dll
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\bin\Debug\net6.0\ClassAbstract.pdb
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\obj\Debug\net6.0\ClassAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\obj\Debug\net6.0\ClassAbstract.AssemblyInfoInputs.cache
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\obj\Debug\net6.0\ClassAbstract.AssemblyInfo.cs
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\obj\Debug\net6.0\ClassAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\obj\Debug\net6.0\ClassAbstract.sourcelink.json
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\obj\Debug\net6.0\ClassAbstract.dll
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\obj\Debug\net6.0\refint\ClassAbstract.dll
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\obj\Debug\net6.0\ClassAbstract.pdb
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\obj\Debug\net6.0\ClassAbstract.genruntimeconfig.cache
+C:\Users\Asime\Desktop\bb207task\ClassAbstract\ClassAbstract\obj\Debug\net6.0\ref\ClassAbstract.dll
