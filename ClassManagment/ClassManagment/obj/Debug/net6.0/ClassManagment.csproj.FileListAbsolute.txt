@@ -1,0 +1,15 @@
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\bin\Debug\net6.0\ClassManagment.exe
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\bin\Debug\net6.0\ClassManagment.deps.json
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\bin\Debug\net6.0\ClassManagment.runtimeconfig.json
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\bin\Debug\net6.0\ClassManagment.dll
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\bin\Debug\net6.0\ClassManagment.pdb
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.AssemblyInfoInputs.cache
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.AssemblyInfo.cs
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.csproj.CoreCompileInputs.cache
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.sourcelink.json
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.dll
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\obj\Debug\net6.0\refint\ClassManagment.dll
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.pdb
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\obj\Debug\net6.0\ClassManagment.genruntimeconfig.cache
+C:\Users\Asime\Desktop\bb207task\ClassManagment\ClassManagment\obj\Debug\net6.0\ref\ClassManagment.dll
