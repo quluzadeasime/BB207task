@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asime\\Desktop\\bb207task\\StaticExtension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB210E86-6349-4F3B-8C0D-B274EF09A22C}|StaticExtension\\StaticExtension.csproj|c:\\users\\asime\\desktop\\bb207task\\staticextension\\staticextension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB210E86-6349-4F3B-8C0D-B274EF09A22C}|StaticExtension\\StaticExtension.csproj|solutionrelative:staticextension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB210E86-6349-4F3B-8C0D-B274EF09A22C}|StaticExtension\\StaticExtension.csproj|c:\\users\\asime\\desktop\\bb207task\\staticextension\\staticextension\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB210E86-6349-4F3B-8C0D-B274EF09A22C}|StaticExtension\\StaticExtension.csproj|solutionrelative:staticextension\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB210E86-6349-4F3B-8C0D-B274EF09A22C}|StaticExtension\\StaticExtension.csproj|c:\\users\\asime\\desktop\\bb207task\\staticextension\\staticextension\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB210E86-6349-4F3B-8C0D-B274EF09A22C}|StaticExtension\\StaticExtension.csproj|solutionrelative:staticextension\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB210E86-6349-4F3B-8C0D-B274EF09A22C}|StaticExtension\\StaticExtension.csproj|c:\\users\\asime\\desktop\\bb207task\\staticextension\\staticextension\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB210E86-6349-4F3B-8C0D-B274EF09A22C}|StaticExtension\\StaticExtension.csproj|solutionrelative:staticextension\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\bb207task\\StaticExtension\\StaticExtension\\Store.cs",
+              "RelativeDocumentMoniker": "StaticExtension\\Store.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\bb207task\\StaticExtension\\StaticExtension\\Store.cs",
+              "RelativeToolTip": "StaticExtension\\Store.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:09:20.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\bb207task\\StaticExtension\\StaticExtension\\Product.cs",
+              "RelativeDocumentMoniker": "StaticExtension\\Product.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\bb207task\\StaticExtension\\StaticExtension\\Product.cs",
+              "RelativeToolTip": "StaticExtension\\Product.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:09:20.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\bb207task\\StaticExtension\\StaticExtension\\Person.cs",
+              "RelativeDocumentMoniker": "StaticExtension\\Person.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\bb207task\\StaticExtension\\StaticExtension\\Person.cs",
+              "RelativeToolTip": "StaticExtension\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:09:20.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\bb207task\\StaticExtension\\StaticExtension\\Program.cs",
+              "RelativeDocumentMoniker": "StaticExtension\\Program.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\bb207task\\StaticExtension\\StaticExtension\\Program.cs",
+              "RelativeToolTip": "StaticExtension\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:09:20.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

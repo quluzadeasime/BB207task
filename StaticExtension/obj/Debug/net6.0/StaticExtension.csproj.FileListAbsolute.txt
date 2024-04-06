@@ -1,0 +1,18 @@
+C:\Users\II novbe\source\repos\ClassTask\StaticExtension\StaticExtension\obj\Debug\net6.0\StaticExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\ClassTask\StaticExtension\StaticExtension\obj\Debug\net6.0\StaticExtension.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\ClassTask\StaticExtension\StaticExtension\obj\Debug\net6.0\StaticExtension.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\ClassTask\StaticExtension\StaticExtension\obj\Debug\net6.0\StaticExtension.csproj.CoreCompileInputs.cache
+D:\StaticExtension\StaticExtension\bin\Debug\net6.0\StaticExtension.exe
+D:\StaticExtension\StaticExtension\bin\Debug\net6.0\StaticExtension.deps.json
+D:\StaticExtension\StaticExtension\bin\Debug\net6.0\StaticExtension.runtimeconfig.json
+D:\StaticExtension\StaticExtension\bin\Debug\net6.0\StaticExtension.dll
+D:\StaticExtension\StaticExtension\bin\Debug\net6.0\StaticExtension.pdb
+D:\StaticExtension\StaticExtension\obj\Debug\net6.0\StaticExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\StaticExtension\StaticExtension\obj\Debug\net6.0\StaticExtension.AssemblyInfoInputs.cache
+D:\StaticExtension\StaticExtension\obj\Debug\net6.0\StaticExtension.AssemblyInfo.cs
+D:\StaticExtension\StaticExtension\obj\Debug\net6.0\StaticExtension.csproj.CoreCompileInputs.cache
+D:\StaticExtension\StaticExtension\obj\Debug\net6.0\StaticExtension.dll
+D:\StaticExtension\StaticExtension\obj\Debug\net6.0\refint\StaticExtension.dll
+D:\StaticExtension\StaticExtension\obj\Debug\net6.0\StaticExtension.pdb
+D:\StaticExtension\StaticExtension\obj\Debug\net6.0\StaticExtension.genruntimeconfig.cache
+D:\StaticExtension\StaticExtension\obj\Debug\net6.0\ref\StaticExtension.dll
